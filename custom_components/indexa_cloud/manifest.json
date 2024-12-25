@@ -1,0 +1,15 @@
+{
+  "domain": "indexa_cloud",
+  "name": "Indexa Cloud",
+  "codeowners": ["@CooperRS"],
+  "config_flow": true,    
+  "dependencies": [],
+  "documentation": "https://github.com/CooperRS/ha-cc-jablotron-cloud",  
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/CooperRS/ha-cc-jablotron-cloud/issues",
+  "requirements": ["git+https://github.com/CooperRS/JablotronPy.git@main#JablotronPy==0.0.1"],
+  "ssdp": [],  
+  "version": "0.0.1",
+  "zeroconf": []
+}

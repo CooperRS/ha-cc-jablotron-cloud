@@ -2,7 +2,7 @@
 
 from homeassistant.backports.enum import StrEnum
 
-DOMAIN = "jablotron_cloud"
+DOMAIN = "indexa_cloud"
 
 SERVICE_ID = "service-id"
 SERVICE_TYPE = "service-type"
